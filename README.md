@@ -1,7 +1,7 @@
 # fixedfield-to-csv
 Given a fixed field file and a control file, convert that file to a csv.
 
-The solution contained within assumes a specific [structure](https://github.com/curtisalexander/fixedfield-to-csv/fixedfield-to-csv.py#L) for the control file.  
+The solution contained within assumes a specific [structure](https://github.com/curtisalexander/fixedfield-to-csv/blob/master/fixedfield-to-csv.py#L17) for the control file.  
 
 
 ## Requirements
